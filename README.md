@@ -3,4 +3,4 @@ There are some scripts that I quickly wrote for OSBot.  You will NOT be able to 
 
 
 Current List of Scripts:
-  1. Auto Enchanter - Start near a bank with required runes/staff and the item you want to enchant in your inventory.  It will automatically detect the item and which spell should be used
+  1. Auto Enchanter - Start near a bank with required runes/staff and the item you want to enchant in your inventory.  It will automatically detect the item and which spell should be used.  Stops once out of required runes or items.
